@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giorgos-vr
-- 👀 I’m interested in becoming a full time Python dev
+- 👀 I’m interested in becoming a full time Python dev/data analyst
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on junior/starter projects
 - 📫 You can reach me by email on giorgos.vr[at]gmail.com
